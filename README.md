@@ -14,7 +14,7 @@ Certaines fonctionnalités sont présentes :
 - Mettre le titre à gauche, au centre ou à droite
 - Mettre le titre en position horizontale ou verticale
 
-Modifications que je veux apporter : 
+Modifications que je souhaite apporter par la suite (par faute de temps) : 
 - Ajouter la fonctionanlité qui permet de modifier : le fond, la couleur de la bordure
 - Afficher ou non les paramètres du logo
 - Ajouter une image que l'on importe
